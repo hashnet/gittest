@@ -1,3 +1,13 @@
 line1 file1
+<<<<<<< HEAD
 
 line3 file1
+=======
+line2 file1 branch1
+<<<<<<< HEAD
+line3 file1 branch3
+=======
+line 4 file1 branch 5
+>>>>>>> branch5
+
+>>>>>>> branch3
